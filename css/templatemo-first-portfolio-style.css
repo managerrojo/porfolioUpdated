@@ -1,14 +1,6 @@
-/*
-
-TemplateMo 578 First Portfolio
-
-https://templatemo.com/tm-578-first-portfolio
-
-*/
-
 
 /*---------------------------------------
-  CUSTOM PROPERTIES ( VARIABLES )             
+ ( VARIABLES )             
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
@@ -45,12 +37,9 @@ body {
     background: var(--white-color);
     font-family: var(--body-font-family); 
 }
-
-
 /*---------------------------------------
-  TYPOGRAPHY               
+  TYPOGRAFIA       
 -----------------------------------------*/
-
 h2,
 h3,
 h4,
